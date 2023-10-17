@@ -85,8 +85,17 @@ onMounted(() => {
      
     </div>
   </div>
+
 </template>
 
-<style scoped lang="scss">
+<style>
+.app {
+  width: 100%;
+  height: 100%;
+  background-color: var(--container-background-color);
 
+  .container {
+    font-size: 20px;
+  }
+}
 </style>
