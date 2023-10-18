@@ -1,3 +1,27 @@
 :root {
-  --container-background-color: #dde2e9;
+  --container-background-color: #ffffff;
+}
+
+.string {
+  color: #0078e2;
+}
+
+.boolean {
+  color: green;
+}
+
+.number {
+  color: #272727;
+}
+
+.key {
+  color: #a53e9f;
+}
+
+.none {
+  display: none;
+}
+
+.block {
+  display: block;
 }
